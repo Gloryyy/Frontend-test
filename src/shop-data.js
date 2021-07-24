@@ -17,7 +17,7 @@ const SHOP_DATA = {
         id: 3,
         name: "Hochflorteppiche",
         image:
-          "https://d2rfa446ja7yzb.cloudfront.net/eyJidWNrZXQiOiJtaXJyb3IuZ2V0Zmxvd2JveC5jb20uZXUtd2VzdC0xLmxpdmUiLCJrZXkiOiJhSFIwY0hNNkx5OTNkM2N1YVc1emRHRm5jbUZ0TG1OdmJTOXdMME5TYkVnMWQzbEdaalJLTHc9PS90aHVtYm5haWwiLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjEwODB9fX0=",
+          "https://imagehost7.online-image-editor.com/oie_upload/images/24202332Ca3oRM/24222257PZ323U8s.jpg",
       },
       {
         id: 4,

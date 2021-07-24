@@ -67,4 +67,7 @@ export const ContentTitle = styled.span`
   @media screen and (max-width: 800px) {
     font-size: 15px;
   }
+  @media screen and (max-width: 1500px) {
+    font-size: 16px;
+  }
 `;

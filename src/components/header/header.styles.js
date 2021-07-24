@@ -19,7 +19,13 @@ export const OptionsContainer = styled.div`
   align-items: center;
   justify-content: flex-end;
   @media screen and (max-width: 800px) {
-    width: 80%;
+    width: 0;
+  }
+  @media screen and (max-width: 1400px) {
+    width: 92%;
+  }
+  @media screen and (max-width: 1199px) {
+    width: 0;
   }
 `;
 
