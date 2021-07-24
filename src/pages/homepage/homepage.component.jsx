@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from '../../assets/banner-bw-cs.jpg'
+import Directory from '../../components/directory/directory.component'
 
 import {HomePageContainer, HomePageText, HomePageSubtitle, HomePageSubtext} from './homepage.styles';
 
@@ -14,6 +15,7 @@ const HomePage = () => (
       <HomePageText>Entdecken Sie schon jetzt Teppiche & Accessoires und merken Sie sich Ihre Favoriten für die
         Preisschlacht des Jahres vor.</HomePageText>
       <HomePageSubtext>Jetzt schon stöbern:</HomePageSubtext>
+      <Directory />
     </HomePageContainer>
   </div>
 );

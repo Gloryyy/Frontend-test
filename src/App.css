@@ -21,3 +21,9 @@ a:hover {
 * {
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 800px) {
+    .banner {
+        width: 100%;
+    }
+}
