@@ -36,6 +36,9 @@ export const BackgroundImageContainer = styled.div`
   background-size: cover;
   background-position: center;
   background-image: ${({ image }) => `url(${image})`};
+  @media screen and (max-width: 480px) {
+    margin-right: 10px;
+  }
 `;
 
 export const ContentContainer = styled.div`

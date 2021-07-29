@@ -47,4 +47,10 @@ a:hover {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 450px) {
+    .banner {
+        width: 103%;
+    }
+  }
 `;
